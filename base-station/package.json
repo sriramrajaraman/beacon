@@ -1,0 +1,31 @@
+{
+  "name": "beacon-station",
+  "version": "1.0.0",
+  "description": "Base Station Scanning for beacons",
+  "main": "scan.js",
+  "dependencies": {
+    "bleacon": "^0.4.0",
+    "socket.io-client": "^1.4.5",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriramrajaraman/beacon.git"
+  },
+  "keywords": [
+    "beacon",
+    "scan",
+    "ibeacon",
+    "raspberrypi",
+    "rpi"
+  ],
+  "author": "Sriram Rajaraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriramrajaraman/beacon/issues"
+  },
+  "homepage": "https://github.com/sriramrajaraman/beacon#readme"
+}

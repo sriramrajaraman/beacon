@@ -1,0 +1,32 @@
+{
+  "name": "beacon-client",
+  "version": "1.0.0",
+  "description": "client to run a socket, receive and visualize the beacon location",
+  "main": "init.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sriramrajaraman/beacon.git"
+  },
+  "keywords": [
+    "ibeacon",
+    "socket",
+    "rssi",
+    "location",
+    "ble",
+    "bluetooth"
+  ],
+  "author": "Sriram Rajaraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriramrajaraman/beacon/issues"
+  },
+  "homepage": "https://github.com/sriramrajaraman/beacon"
+}
