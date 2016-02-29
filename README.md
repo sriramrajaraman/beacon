@@ -18,4 +18,4 @@ cd to the folder and run
 ```
 node .
 ```
-browse to http://<clientIP:host>:3000/client.html to see the visualization. hopefully it works :) 
+browse to http://<clientIP:port>:3000/client.html to see the visualization. hopefully it works :) 
